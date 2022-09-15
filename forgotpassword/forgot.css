@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+max-height: 100vh;
+
+}
+#formclass {
+    background-color: #670000!important;
+    margin-top: 200px;
+}
